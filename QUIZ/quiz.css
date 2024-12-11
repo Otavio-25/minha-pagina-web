@@ -1,0 +1,52 @@
+.fundo{
+    background-image: url(fundo-florado.jpeg);
+}
+.container{
+    margin: 2%;
+    border: 5px solid black;
+    padding-left: 1%;
+    padding-bottom: 1%;
+    margin-right: 32%;
+    margin-left: 32%;
+    background-color: black;
+    box-shadow: 0 0 20px white;
+}
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 8%;
+    margin-left: 17%;
+    margin-bottom: 6%;
+    color: rgb(62, 62, 228);
+    font-size: 30px;
+}
+.submit-btn{
+    margin-top: 3%;
+    margin-left: 40%;
+    margin-bottom: 3%;
+}
+.result-message{
+    margin-left: 16%;
+}
+.question{
+    font-size: 20px;
+    color: white;
+}
+.options{
+    font-size: 17px;
+}
+.botao{
+    background-color: rgb(62, 62, 228);
+    color: black;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: -7%;
+}
+.result-message{
+    margin-left: 30%;
+}
+.pergunta{
+    color: rgb(162, 171, 237);
+}
